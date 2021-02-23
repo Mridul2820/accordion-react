@@ -79,4 +79,8 @@ main {
     margin-left: 1rem;
     align-self: center;
     min-width: 2rem;
+
+    &:focus {
+        outline: none;
+    }
 }
