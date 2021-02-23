@@ -6,7 +6,7 @@ import './App.scss';
 import React from 'react'
 
 const App = () => {
-    const [questions, setQuestions] = useState(data)
+    const [questions] = useState(data)
 
     return (
         <main>
