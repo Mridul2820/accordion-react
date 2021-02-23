@@ -1,3 +1,4 @@
+import Question from './components/Question'
 import './App.scss';
 
 import React from 'react'
