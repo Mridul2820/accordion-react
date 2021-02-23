@@ -1,4 +1,4 @@
-# Menu React App
+# Accordion React App
 
 ## Available Deploy on Netlify
 
