@@ -9,4 +9,4 @@ The Project can be viewd at [Netlify](https://accordion-one.netlify.app/)
 The Project can be viewd at [Vercel](https://accordion-one.vercel.app/)
 
 ### Screenshot 
-<img align="left" src="https://github.com/Mridul2820/apps-react/blob/master/public/image/accordion.png" alt="toi-clone" width="100%">
+<img align="left" src="https://github.com/Mridul2820/apps-react/blob/master/public/image/accordion.png" alt="React App" width="100%">
